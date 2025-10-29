@@ -30,7 +30,7 @@
 
 #ifndef _AS_AudioFile_h
 #define _AS_AudioFile_h
-//make a change to this section for build issue
+//make a change to this section for build issue update
 #if defined (_MSC_VER)
 #undef max
 #undef min
